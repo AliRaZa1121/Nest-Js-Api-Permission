@@ -1,0 +1,17 @@
+[
+  {
+    "name": "User read",
+    "slug": "user-read",
+    "group": "User Management"
+  },
+  {
+    "name": "User write",
+    "slug": "user-write",
+    "group": "User Management"
+  },
+  {
+    "name": "User delete",
+    "slug": "user-delete",
+    "group": "User Management"
+  }
+]
